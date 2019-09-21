@@ -52,7 +52,8 @@ class HTTP:
         for key in self.params:
             s = s.replace('{'+key+'}',self.params[key])
         return s
-    #
+
+    #转换成字典
     def __todict(self,s):
         # 分割参数个数
         httpparam = {}
