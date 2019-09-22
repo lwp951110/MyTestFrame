@@ -38,7 +38,7 @@ class Reader:
         self.r = 0
         return
 
-    # 切换sheet页面
+    # 获取sheet页面
     def get_sheets(self):
         # 获取所有sheet的名字，并返回
         sheets = self.workbook.sheet_names()
@@ -171,4 +171,5 @@ if __name__ == '__main__':
     writer.copy_open('../lib/cases/HTTP接口用例.xls', '../lib/results/result-HTTP接口用例.xls')
     writer.set_sheet(sheetname[0])
     writer.write(1, 1, 'William')
+    writer.write(2,7, 'PASS')
     writer.save_close()
