@@ -1,0 +1,14 @@
+#=mysql配置
+mysqluser=root
+mysqlpassword=will123456
+mysqlport=3306
+mysqlhost=localhost
+mysqldb=test_project
+mysqlcharset=utf8
+#=邮件配置
+mail=531378488@qq.com
+pwd=igrkoadaqxrtbgea
+mailto=531378488@qq.com
+mailcopy=18913361235@163.com
+mailtitle=接口自动化测试报告
+mailtext=

@@ -3,7 +3,9 @@ import inspect
 
 from common.Excel import Reader, Writer
 from keywords.httpkeys import HTTP
-
+from keywords.soapkeys import SOAP
+from keywords.webkeys import WEB
+from common.excelresult import Res
 # 反射获得函数
 def getfunc(line,http):
     func = None
@@ -43,11 +45,12 @@ def run(func,lenargs,line):
 def runCases():
     reader = Reader()
     writer = Writer()
-
-    http = HTTP(writer)
-
-    reader.open_excel('../lib/cases/HTTP接口用例.xls')
-    writer.copy_open('../lib/cases/HTTP接口用例.xls', '../lib/results/result-HTTP接口用例.xls')
+    res = Res()
+    # http = HTTP(writer)
+    soap = SOAP(writer)
+    # web = WEB(writer)
+    reader.open_excel('../lib/cases/SOAP接口用例.xls')
+    writer.copy_open('../lib/cases/SOAP接口用例.xls', '../lib/results/result-SOAP接口用例.xls')
     sheetname = reader.get_sheets()
     for sheet in sheetname:
        # 设置当前读写的sheet
@@ -63,9 +66,11 @@ def runCases():
               pass
           else:
             writer.row = i
-            func = getfunc(line,http)
+            func = getfunc(line,soap)
             lenargs = getargs(func)
             run(func,lenargs,line)
 
     writer.save_close()
+    res.get_res('../lib/results/result-SOAP接口用例.xls')
+
 runCases()

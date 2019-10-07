@@ -1,5 +1,6 @@
 # -*- coding: UTF-8 -*-
 import requests,json
+from common import logger
 
 # 创建一个http接口类
 class HTTP:
@@ -17,25 +18,25 @@ class HTTP:
     def seturl(self,url):
         if url.startswith('http'):
             self.url=url
-            print(self.url+'被调用')
+            # print(self.url+'被调用')
+            logger.info(self.url+'被调用')
             self.writer.write(self.writer.row,self.writer.clo,'PASS')
             self.writer.write(self.writer.row, self.writer.clo+1, str(self.url))
         else:
-            print('error：非法url地址')
+            # print('error：非法url地址')
+            logger.error('error：非法url地址')
             self.writer.write(self.writer.row,self.writer.clo,'FAIL')
             self.writer.write(self.writer.row, self.writer.clo+1,'error：非法url地址' )
 
     # 定义post
     def post(self,path,data=None):
         '''
-
         :param path: url路径
         :param data: 键值对传参
         :return: 无返回值
         '''
         if not path.startswith('http'):
             path= self.url+'/'+path
-
         try:
             # 判断data是否需要传参数
             result = None
@@ -44,20 +45,19 @@ class HTTP:
             else:
                 # 替换参数
                 data = self.__getparms(data)
-                print(data)
+                logger.info(data)
                 # 转为字典
                 data = self.__todict(data)
-                print(data)
+                logger.info(data)
                 # 发送请求
                 result = self.session.post(path,data)
-
             self.jsonres =json.loads(result.text)
             self.writer.write(self.writer.row, self.writer.clo, 'PASS')
             self.writer.write(self.writer.row, self.writer.clo + 1, str(self.jsonres))
         except Exception as  e:
-            self.writer.write(self.writer.row, self.writer.clo, 'FIAL')
+            self.writer.write(self.writer.row, self.writer.clo, 'FAIL')
             self.writer.write(self.writer.row, self.writer.clo + 1, str(self.jsonres))
-            print(e)
+            logger.warn(e)
 
     # 定义断言相等的关键字，用来判断json的key
     def assertequals(self,key,value):
@@ -65,16 +65,16 @@ class HTTP:
        try:
            res = str(self.jsonres[key])
        except Exception as e:
-           print(e)
+           logger.warn(e)
 
        if res==str(value):
            self.writer.write(self.writer.row, self.writer.clo, 'PASS')
            self.writer.write(self.writer.row, self.writer.clo + 1, res)
-           print("PASS")
+           logger.info("PASS")
        else:
            self.writer.write(self.writer.row, self.writer.clo, 'FAIL')
            self.writer.write(self.writer.row, self.writer.clo + 1, res)
-           print("FAIL")
+           logger.error("FAIL")
 
     # 添加header
     def addheader(self,key,value):
@@ -92,11 +92,13 @@ class HTTP:
         res=''
         try:
             res=self.jsonres[key]
-
+            self.writer.write(self.writer.row, self.writer.clo, 'PASS')
         except Exception as e:
-            print(e)
+            self.writer.write(self.writer.row, self.writer.clo, 'FAIL')
+            logger.warn(e)
         self.params[p] = res
-        print(self.params[p])
+        logger.info(self.params[p])
+        self.writer.write(self.writer.row, self.writer.clo+1, str(self.params))
 
     # 获取参数的值
     def __getparms(self,s):

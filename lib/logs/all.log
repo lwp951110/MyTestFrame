@@ -1,0 +1,998 @@
+2019-09-24 21:18:05,071 - INFO - test
+2019-09-24 21:27:16,344 - INFO - http://112.74.191.10:8081/inter/HTTP±ªµ˜”√
+2019-09-24 21:27:16,427 - INFO - PASS
+2019-09-24 21:27:16,460 - INFO - PASS
+2019-09-24 21:27:16,492 - INFO - PASS
+2019-09-24 21:27:16,524 - INFO - PASS
+2019-09-24 21:27:16,557 - INFO - PASS
+2019-09-24 21:27:16,558 - INFO - http://112.74.191.10:8081/inter/HTTP±ªµ˜”√
+2019-09-24 21:27:16,591 - INFO - PASS
+2019-09-24 21:27:16,625 - INFO - PASS
+2019-09-24 21:27:16,659 - INFO - PASS
+2019-09-24 21:27:16,691 - INFO - PASS
+2019-09-24 21:27:16,756 - ERROR - FAIL
+2019-09-24 21:27:16,790 - ERROR - FAIL
+2019-09-24 21:27:16,895 - ERROR - FAIL
+2019-09-24 21:27:16,953 - INFO - PASS
+2019-09-24 21:27:16,993 - ERROR - FAIL
+2019-09-24 21:27:17,056 - ERROR - FAIL
+2019-09-24 21:27:17,087 - ERROR - FAIL
+2019-09-24 21:27:17,118 - INFO - PASS
+2019-09-24 21:27:17,148 - ERROR - FAIL
+2019-09-24 21:27:17,181 - ERROR - FAIL
+2019-09-24 21:27:17,215 - INFO - PASS
+2019-09-24 21:27:17,247 - INFO - PASS
+2019-09-24 21:27:17,281 - INFO - PASS
+2019-09-24 21:27:17,348 - INFO - PASS
+2019-09-24 21:27:17,386 - ERROR - FAIL
+2019-09-24 21:27:17,455 - ERROR - FAIL
+2019-09-24 21:27:17,493 - ERROR - FAIL
+2019-09-24 21:27:17,530 - INFO - PASS
+2019-09-24 21:27:17,567 - ERROR - FAIL
+2019-09-24 21:27:17,603 - ERROR - FAIL
+2019-09-24 21:27:17,641 - INFO - PASS
+2019-09-24 21:27:17,678 - INFO - PASS
+2019-09-24 21:27:17,718 - INFO - PASS
+2019-09-24 21:27:17,781 - ERROR - FAIL
+2019-09-24 21:27:17,876 - ERROR - FAIL
+2019-09-24 21:27:17,909 - ERROR - FAIL
+2019-09-24 21:27:17,944 - ERROR - FAIL
+2019-09-24 21:27:17,978 - ERROR - FAIL
+2019-09-24 21:27:18,076 - ERROR - FAIL
+2019-09-24 21:27:18,173 - ERROR - FAIL
+2019-09-26 13:09:06,203 - INFO - http://112.74.191.10:8081/inter/HTTP±ªµ˜”√
+2019-09-26 13:09:06,300 - INFO - PASS
+2019-09-26 13:09:06,333 - INFO - PASS
+2019-09-26 13:09:06,365 - INFO - PASS
+2019-09-26 13:09:06,365 - INFO - d551a29a0fcf428ba57fb4d77d9213c3
+2019-09-26 13:09:06,398 - INFO - PASS
+2019-09-26 13:09:06,432 - INFO - PASS
+2019-09-26 13:09:06,432 - INFO - http://112.74.191.10:8081/inter/HTTP±ªµ˜”√
+2019-09-26 13:09:06,433 - INFO - username=Will&password=123456
+2019-09-26 13:09:06,433 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:09:06,467 - INFO - PASS
+2019-09-26 13:09:06,468 - INFO - username=Will&password=123456
+2019-09-26 13:09:06,468 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:09:06,500 - INFO - PASS
+2019-09-26 13:09:06,501 - INFO - username=Will&password=123456
+2019-09-26 13:09:06,501 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:09:06,533 - INFO - PASS
+2019-09-26 13:09:06,534 - INFO - username=Will&password=123456
+2019-09-26 13:09:06,534 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:09:06,567 - INFO - PASS
+2019-09-26 13:09:06,600 - INFO - 2b82316f611942e2b1fdddad6d830c6e
+2019-09-26 13:09:06,601 - INFO - username=Will&password=123456
+2019-09-26 13:09:06,601 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:09:06,639 - ERROR - FAIL
+2019-09-26 13:09:06,640 - INFO - username=Will&password=123456
+2019-09-26 13:09:06,641 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:09:06,674 - ERROR - FAIL
+2019-09-26 13:09:06,739 - INFO - b9b2fee2ea5844f1acbee280cf45e59f
+2019-09-26 13:09:06,739 - INFO - password=123456
+2019-09-26 13:09:06,740 - INFO - {'password': '123456'}
+2019-09-26 13:09:06,774 - WARNING - Expecting value: line 1 column 1 (char 0)
+2019-09-26 13:09:06,775 - ERROR - FAIL
+2019-09-26 13:09:06,775 - INFO - username=&password=123456
+2019-09-26 13:09:06,775 - INFO - {'username': '', 'password': '123456'}
+2019-09-26 13:09:06,842 - INFO - PASS
+2019-09-26 13:09:06,842 - INFO - username=#£§%a&password=123456
+2019-09-26 13:09:06,842 - INFO - {'username': '#£§%a', 'password': '123456'}
+2019-09-26 13:09:06,880 - WARNING - Expecting value: line 1 column 1 (char 0)
+2019-09-26 13:09:06,880 - ERROR - FAIL
+2019-09-26 13:09:07,022 - ERROR - FAIL
+2019-09-26 13:09:07,060 - ERROR - FAIL
+2019-09-26 13:09:07,060 - INFO - username=ll&password=123456
+2019-09-26 13:09:07,061 - INFO - {'username': 'll', 'password': '123456'}
+2019-09-26 13:09:07,096 - INFO - PASS
+2019-09-26 13:09:07,096 - INFO - username=ill&password=123456
+2019-09-26 13:09:07,096 - INFO - {'username': 'ill', 'password': '123456'}
+2019-09-26 13:09:07,130 - ERROR - FAIL
+2019-09-26 13:09:07,131 - INFO - username=WillWillWillWill&password=123456
+2019-09-26 13:09:07,131 - INFO - {'username': 'WillWillWillWill', 'password': '123456'}
+2019-09-26 13:09:07,167 - ERROR - FAIL
+2019-09-26 13:09:07,167 - INFO - username=W1illWillWillWill&password=123456
+2019-09-26 13:09:07,167 - INFO - {'username': 'W1illWillWillWill', 'password': '123456'}
+2019-09-26 13:09:07,201 - INFO - PASS
+2019-09-26 13:09:07,201 - INFO - username=W1illWillWillWillW1illWillWillWillW1illWillWillWillW1illWillWillWill&password=123456
+2019-09-26 13:09:07,201 - INFO - {'username': 'W1illWillWillWillW1illWillWillWillW1illWillWillWillW1illWillWillWill', 'password': '123456'}
+2019-09-26 13:09:07,235 - INFO - PASS
+2019-09-26 13:09:07,235 - INFO - username=Will
+2019-09-26 13:09:07,235 - INFO - {'username': 'Will'}
+2019-09-26 13:09:07,270 - WARNING - Expecting value: line 1 column 1 (char 0)
+2019-09-26 13:09:07,270 - INFO - PASS
+2019-09-26 13:09:07,271 - INFO - username=Will&password=
+2019-09-26 13:09:07,271 - INFO - {'username': 'Will', 'password': ''}
+2019-09-26 13:09:07,338 - INFO - PASS
+2019-09-26 13:09:07,339 - INFO - username=Will&password=#£§%a
+2019-09-26 13:09:07,340 - INFO - {'username': 'Will', 'password': '#£§%a'}
+2019-09-26 13:09:07,377 - WARNING - Expecting value: line 1 column 1 (char 0)
+2019-09-26 13:09:07,377 - ERROR - FAIL
+2019-09-26 13:09:07,440 - ERROR - FAIL
+2019-09-26 13:09:07,473 - ERROR - FAIL
+2019-09-26 13:09:07,474 - INFO - username=Will&password=12
+2019-09-26 13:09:07,474 - INFO - {'username': 'Will', 'password': '12'}
+2019-09-26 13:09:07,505 - INFO - PASS
+2019-09-26 13:09:07,505 - INFO - username=Will&password=123
+2019-09-26 13:09:07,505 - INFO - {'username': 'Will', 'password': '123'}
+2019-09-26 13:09:07,537 - ERROR - FAIL
+2019-09-26 13:09:07,537 - INFO - username=Will&password=1234561234561234
+2019-09-26 13:09:07,537 - INFO - {'username': 'Will', 'password': '1234561234561234'}
+2019-09-26 13:09:07,570 - ERROR - FAIL
+2019-09-26 13:09:07,571 - INFO - username=Will&password=12345612345612345
+2019-09-26 13:09:07,571 - INFO - {'username': 'Will', 'password': '12345612345612345'}
+2019-09-26 13:09:07,602 - INFO - PASS
+2019-09-26 13:09:07,602 - INFO - username=Will&password=123456123456123456123456123456123456123456123456
+2019-09-26 13:09:07,602 - INFO - {'username': 'Will', 'password': '123456123456123456123456123456123456123456123456'}
+2019-09-26 13:09:07,633 - INFO - PASS
+2019-09-26 13:09:07,665 - WARNING - Expecting value: line 1 column 1 (char 0)
+2019-09-26 13:09:07,666 - INFO - PASS
+2019-09-26 13:09:07,666 - INFO - username=Will&aaa=bbb&password=123456
+2019-09-26 13:09:07,666 - INFO - {'username': 'Will', 'aaa': 'bbb', 'password': '123456'}
+2019-09-26 13:09:07,729 - ERROR - FAIL
+2019-09-26 13:09:07,797 - INFO - 930f69827761484588fb8180fc7dcdee
+2019-09-26 13:09:07,797 - INFO - username=Will&password=1253
+2019-09-26 13:09:07,797 - INFO - {'username': 'Will', 'password': '1253'}
+2019-09-26 13:09:07,830 - ERROR - FAIL
+2019-09-26 13:09:07,830 - INFO - username=Wilil&password=123456
+2019-09-26 13:09:07,831 - INFO - {'username': 'Wilil', 'password': '123456'}
+2019-09-26 13:09:07,865 - ERROR - FAIL
+2019-09-26 13:09:07,866 - INFO - username=Will&password=tufei
+2019-09-26 13:09:07,866 - INFO - {'username': 'Will', 'password': 'tufei'}
+2019-09-26 13:09:07,900 - ERROR - FAIL
+2019-09-26 13:09:07,900 - INFO - username=Will&password=123456
+2019-09-26 13:09:07,900 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:09:07,934 - ERROR - FAIL
+2019-09-26 13:09:08,002 - INFO - f27d37bb668145dbac181fcb688fdf88
+2019-09-26 13:09:08,003 - INFO - username=Will' or 1=1 #&password=123456
+2019-09-26 13:09:08,003 - INFO - {'username': "Will' or 1", 'password': '123456'}
+2019-09-26 13:09:08,039 - ERROR - FAIL
+2019-09-26 13:09:08,107 - INFO - 76105799be9a49afb2bb43428752ef6b
+2019-09-26 13:09:08,108 - INFO - username=Will&password=123' or 1=1 #
+2019-09-26 13:09:08,108 - INFO - {'username': 'Will', 'password': "123' or 1"}
+2019-09-26 13:09:08,142 - ERROR - FAIL
+2019-09-26 13:09:08,178 - INFO - http://112.74.191.10:8081/inter/HTTP±ªµ˜”√
+2019-09-26 13:09:08,179 - INFO - username=lwp1&password=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:09:08,179 - INFO - {'username': 'lwp1', 'password': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:09:08,214 - INFO - PASS
+2019-09-26 13:09:08,214 - INFO - username=lwp1&password=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:09:08,214 - INFO - {'username': 'lwp1', 'password': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:09:08,249 - INFO - PASS
+2019-09-26 13:09:08,249 - INFO - username=lwp1&password=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:09:08,249 - INFO - {'username': 'lwp1', 'password': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:09:08,286 - INFO - PASS
+2019-09-26 13:09:08,286 - INFO - username=lwp1&password=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:09:08,287 - INFO - {'username': 'lwp1', 'password': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:09:08,322 - INFO - PASS
+2019-09-26 13:09:08,322 - INFO - username=lwp1&password=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:09:08,322 - INFO - {'username': 'lwp1', 'password': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:09:08,356 - INFO - 138ad4926fd0477283046101d6d95800
+2019-09-26 13:09:08,357 - INFO - username=lwp1&password=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:09:08,357 - INFO - {'username': 'lwp1', 'password': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:09:08,392 - ERROR - FAIL
+2019-09-26 13:12:18,933 - INFO - http://112.74.191.10:8081/inter/HTTP±ªµ˜”√
+2019-09-26 13:12:19,002 - INFO - PASS
+2019-09-26 13:12:19,035 - INFO - PASS
+2019-09-26 13:12:19,068 - INFO - PASS
+2019-09-26 13:12:19,068 - INFO - e54f6ae6dbe04b03b14e59c49d73fb7d
+2019-09-26 13:12:19,102 - INFO - PASS
+2019-09-26 13:12:19,136 - INFO - PASS
+2019-09-26 13:12:19,137 - INFO - http://112.74.191.10:8081/inter/HTTP±ªµ˜”√
+2019-09-26 13:12:19,137 - INFO - username=Will&password=123456
+2019-09-26 13:12:19,137 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:12:19,172 - INFO - PASS
+2019-09-26 13:12:19,172 - INFO - username=Will&password=123456
+2019-09-26 13:12:19,172 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:12:19,206 - INFO - PASS
+2019-09-26 13:12:19,206 - INFO - username=Will&password=123456
+2019-09-26 13:12:19,206 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:12:19,240 - INFO - PASS
+2019-09-26 13:12:19,241 - INFO - username=Will&password=123456
+2019-09-26 13:12:19,241 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:12:19,276 - INFO - PASS
+2019-09-26 13:12:19,312 - INFO - 8bf146e00d444ed8ac3c13339f4465d9
+2019-09-26 13:12:19,312 - INFO - username=Will&password=123456
+2019-09-26 13:12:19,312 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:12:19,346 - ERROR - FAIL
+2019-09-26 13:12:19,346 - INFO - username=Will&password=123456
+2019-09-26 13:12:19,346 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:12:19,379 - ERROR - FAIL
+2019-09-26 13:12:19,445 - INFO - 68ea56d628ba4ceb8a0b29925af3a8d2
+2019-09-26 13:12:19,446 - INFO - password=123456
+2019-09-26 13:12:19,446 - INFO - {'password': '123456'}
+2019-09-26 13:12:19,480 - WARNING - Expecting value: line 1 column 1 (char 0)
+2019-09-26 13:12:19,481 - ERROR - FAIL
+2019-09-26 13:12:19,481 - INFO - username=&password=123456
+2019-09-26 13:12:19,481 - INFO - {'username': '', 'password': '123456'}
+2019-09-26 13:12:19,545 - INFO - PASS
+2019-09-26 13:12:19,545 - INFO - username=#£§%a&password=123456
+2019-09-26 13:12:19,545 - INFO - {'username': '#£§%a', 'password': '123456'}
+2019-09-26 13:12:19,579 - WARNING - Expecting value: line 1 column 1 (char 0)
+2019-09-26 13:12:19,579 - ERROR - FAIL
+2019-09-26 13:12:19,642 - ERROR - FAIL
+2019-09-26 13:12:19,677 - ERROR - FAIL
+2019-09-26 13:12:19,677 - INFO - username=ll&password=123456
+2019-09-26 13:12:19,677 - INFO - {'username': 'll', 'password': '123456'}
+2019-09-26 13:12:19,709 - INFO - PASS
+2019-09-26 13:12:19,709 - INFO - username=ill&password=123456
+2019-09-26 13:12:19,710 - INFO - {'username': 'ill', 'password': '123456'}
+2019-09-26 13:12:19,742 - ERROR - FAIL
+2019-09-26 13:12:19,743 - INFO - username=WillWillWillWill&password=123456
+2019-09-26 13:12:19,743 - INFO - {'username': 'WillWillWillWill', 'password': '123456'}
+2019-09-26 13:12:19,777 - ERROR - FAIL
+2019-09-26 13:12:19,777 - INFO - username=W1illWillWillWill&password=123456
+2019-09-26 13:12:19,777 - INFO - {'username': 'W1illWillWillWill', 'password': '123456'}
+2019-09-26 13:12:19,808 - INFO - PASS
+2019-09-26 13:12:19,808 - INFO - username=W1illWillWillWillW1illWillWillWillW1illWillWillWillW1illWillWillWill&password=123456
+2019-09-26 13:12:19,808 - INFO - {'username': 'W1illWillWillWillW1illWillWillWillW1illWillWillWillW1illWillWillWill', 'password': '123456'}
+2019-09-26 13:12:19,841 - INFO - PASS
+2019-09-26 13:12:19,841 - INFO - username=Will
+2019-09-26 13:12:19,841 - INFO - {'username': 'Will'}
+2019-09-26 13:12:19,875 - WARNING - Expecting value: line 1 column 1 (char 0)
+2019-09-26 13:12:19,875 - INFO - PASS
+2019-09-26 13:12:19,876 - INFO - username=Will&password=
+2019-09-26 13:12:19,876 - INFO - {'username': 'Will', 'password': ''}
+2019-09-26 13:12:19,938 - INFO - PASS
+2019-09-26 13:12:19,938 - INFO - username=Will&password=#£§%a
+2019-09-26 13:12:19,938 - INFO - {'username': 'Will', 'password': '#£§%a'}
+2019-09-26 13:12:19,970 - WARNING - Expecting value: line 1 column 1 (char 0)
+2019-09-26 13:12:19,971 - ERROR - FAIL
+2019-09-26 13:12:20,036 - ERROR - FAIL
+2019-09-26 13:12:20,072 - ERROR - FAIL
+2019-09-26 13:12:20,072 - INFO - username=Will&password=12
+2019-09-26 13:12:20,072 - INFO - {'username': 'Will', 'password': '12'}
+2019-09-26 13:12:20,105 - INFO - PASS
+2019-09-26 13:12:20,105 - INFO - username=Will&password=123
+2019-09-26 13:12:20,105 - INFO - {'username': 'Will', 'password': '123'}
+2019-09-26 13:12:20,138 - ERROR - FAIL
+2019-09-26 13:12:20,138 - INFO - username=Will&password=1234561234561234
+2019-09-26 13:12:20,138 - INFO - {'username': 'Will', 'password': '1234561234561234'}
+2019-09-26 13:12:20,171 - ERROR - FAIL
+2019-09-26 13:12:20,171 - INFO - username=Will&password=12345612345612345
+2019-09-26 13:12:20,171 - INFO - {'username': 'Will', 'password': '12345612345612345'}
+2019-09-26 13:12:20,202 - INFO - PASS
+2019-09-26 13:12:20,202 - INFO - username=Will&password=123456123456123456123456123456123456123456123456
+2019-09-26 13:12:20,202 - INFO - {'username': 'Will', 'password': '123456123456123456123456123456123456123456123456'}
+2019-09-26 13:12:20,235 - INFO - PASS
+2019-09-26 13:12:20,268 - WARNING - Expecting value: line 1 column 1 (char 0)
+2019-09-26 13:12:20,269 - INFO - PASS
+2019-09-26 13:12:20,269 - INFO - username=Will&aaa=bbb&password=123456
+2019-09-26 13:12:20,270 - INFO - {'username': 'Will', 'aaa': 'bbb', 'password': '123456'}
+2019-09-26 13:12:20,331 - ERROR - FAIL
+2019-09-26 13:12:20,396 - INFO - c7f766feff5c421da5370714d3e24cc0
+2019-09-26 13:12:20,396 - INFO - username=Will&password=1253
+2019-09-26 13:12:20,396 - INFO - {'username': 'Will', 'password': '1253'}
+2019-09-26 13:12:20,430 - ERROR - FAIL
+2019-09-26 13:12:20,430 - INFO - username=Wilil&password=123456
+2019-09-26 13:12:20,430 - INFO - {'username': 'Wilil', 'password': '123456'}
+2019-09-26 13:12:20,463 - ERROR - FAIL
+2019-09-26 13:12:20,463 - INFO - username=Will&password=tufei
+2019-09-26 13:12:20,463 - INFO - {'username': 'Will', 'password': 'tufei'}
+2019-09-26 13:12:20,495 - ERROR - FAIL
+2019-09-26 13:12:20,496 - INFO - username=Will&password=123456
+2019-09-26 13:12:20,496 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:12:20,529 - ERROR - FAIL
+2019-09-26 13:12:20,593 - INFO - 20f7647344ad4e8fa3555dc24b9153a1
+2019-09-26 13:12:20,594 - INFO - username=Will' or 1=1 #&password=123456
+2019-09-26 13:12:20,594 - INFO - {'username': "Will' or 1", 'password': '123456'}
+2019-09-26 13:12:20,626 - ERROR - FAIL
+2019-09-26 13:12:20,694 - INFO - 65fb1b74d1e04dc5ad9e33777f584eb2
+2019-09-26 13:12:20,694 - INFO - username=Will&password=123' or 1=1 #
+2019-09-26 13:12:20,694 - INFO - {'username': 'Will', 'password': "123' or 1"}
+2019-09-26 13:12:20,729 - ERROR - FAIL
+2019-09-26 13:12:20,762 - INFO - http://112.74.191.10:8081/inter/HTTP±ªµ˜”√
+2019-09-26 13:12:20,762 - INFO - username=lwp1&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:12:20,762 - INFO - {'username': 'lwp1', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:12:20,794 - INFO - PASS
+2019-09-26 13:12:20,795 - INFO - username=lwp1&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:12:20,795 - INFO - {'username': 'lwp1', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:12:20,828 - INFO - PASS
+2019-09-26 13:12:20,828 - INFO - username=lwp1&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:12:20,828 - INFO - {'username': 'lwp1', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:12:20,861 - INFO - PASS
+2019-09-26 13:12:20,861 - INFO - username=lwp1&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:12:20,861 - INFO - {'username': 'lwp1', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:12:20,896 - INFO - PASS
+2019-09-26 13:12:20,929 - INFO - c3605a2c2bd043e397edef06dcee3370
+2019-09-26 13:12:20,929 - INFO - username=lwp1&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:12:20,929 - INFO - {'username': 'lwp1', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:12:20,972 - INFO - PASS
+2019-09-26 13:18:10,210 - INFO - http://112.74.191.10:8081/inter/HTTP±ªµ˜”√
+2019-09-26 13:18:10,277 - INFO - PASS
+2019-09-26 13:18:10,310 - INFO - PASS
+2019-09-26 13:18:10,343 - INFO - PASS
+2019-09-26 13:18:10,343 - INFO - 638d29c4dcfd43db9a025023ae6e4b5a
+2019-09-26 13:18:10,376 - INFO - PASS
+2019-09-26 13:18:10,409 - INFO - PASS
+2019-09-26 13:18:10,410 - INFO - http://112.74.191.10:8081/inter/HTTP±ªµ˜”√
+2019-09-26 13:18:10,410 - INFO - username=Will&password=123456
+2019-09-26 13:18:10,410 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:18:10,444 - INFO - PASS
+2019-09-26 13:18:10,445 - INFO - username=Will&password=123456
+2019-09-26 13:18:10,445 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:18:10,478 - INFO - PASS
+2019-09-26 13:18:10,478 - INFO - username=Will&password=123456
+2019-09-26 13:18:10,479 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:18:10,512 - INFO - PASS
+2019-09-26 13:18:10,513 - INFO - username=Will&password=123456
+2019-09-26 13:18:10,513 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:18:10,546 - INFO - PASS
+2019-09-26 13:18:10,580 - INFO - df135271fadd416d9ce77b65b6272e14
+2019-09-26 13:18:10,580 - INFO - username=Will&password=123456
+2019-09-26 13:18:10,580 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:18:10,615 - ERROR - FAIL
+2019-09-26 13:18:10,615 - INFO - username=Will&password=123456
+2019-09-26 13:18:10,615 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:18:10,649 - ERROR - FAIL
+2019-09-26 13:18:10,716 - INFO - 9ae6b34af2134a06922173587019dce6
+2019-09-26 13:18:10,716 - INFO - password=123456
+2019-09-26 13:18:10,716 - INFO - {'password': '123456'}
+2019-09-26 13:18:10,751 - WARNING - Expecting value: line 1 column 1 (char 0)
+2019-09-26 13:18:10,751 - ERROR - FAIL
+2019-09-26 13:18:10,751 - INFO - username=&password=123456
+2019-09-26 13:18:10,751 - INFO - {'username': '', 'password': '123456'}
+2019-09-26 13:18:10,814 - INFO - PASS
+2019-09-26 13:18:10,814 - INFO - username=#£§%a&password=123456
+2019-09-26 13:18:10,814 - INFO - {'username': '#£§%a', 'password': '123456'}
+2019-09-26 13:18:10,849 - WARNING - Expecting value: line 1 column 1 (char 0)
+2019-09-26 13:18:10,850 - ERROR - FAIL
+2019-09-26 13:18:10,917 - ERROR - FAIL
+2019-09-26 13:18:10,955 - ERROR - FAIL
+2019-09-26 13:18:10,956 - INFO - username=ll&password=123456
+2019-09-26 13:18:10,956 - INFO - {'username': 'll', 'password': '123456'}
+2019-09-26 13:18:10,996 - INFO - PASS
+2019-09-26 13:18:10,997 - INFO - username=ill&password=123456
+2019-09-26 13:18:10,997 - INFO - {'username': 'ill', 'password': '123456'}
+2019-09-26 13:18:11,036 - ERROR - FAIL
+2019-09-26 13:18:11,036 - INFO - username=WillWillWillWill&password=123456
+2019-09-26 13:18:11,036 - INFO - {'username': 'WillWillWillWill', 'password': '123456'}
+2019-09-26 13:18:11,071 - ERROR - FAIL
+2019-09-26 13:18:11,071 - INFO - username=W1illWillWillWill&password=123456
+2019-09-26 13:18:11,071 - INFO - {'username': 'W1illWillWillWill', 'password': '123456'}
+2019-09-26 13:18:11,106 - INFO - PASS
+2019-09-26 13:18:11,107 - INFO - username=W1illWillWillWillW1illWillWillWillW1illWillWillWillW1illWillWillWill&password=123456
+2019-09-26 13:18:11,107 - INFO - {'username': 'W1illWillWillWillW1illWillWillWillW1illWillWillWillW1illWillWillWill', 'password': '123456'}
+2019-09-26 13:18:11,141 - INFO - PASS
+2019-09-26 13:18:11,141 - INFO - username=Will
+2019-09-26 13:18:11,142 - INFO - {'username': 'Will'}
+2019-09-26 13:18:11,177 - WARNING - Expecting value: line 1 column 1 (char 0)
+2019-09-26 13:18:11,177 - INFO - PASS
+2019-09-26 13:18:11,178 - INFO - username=Will&password=
+2019-09-26 13:18:11,178 - INFO - {'username': 'Will', 'password': ''}
+2019-09-26 13:18:11,240 - INFO - PASS
+2019-09-26 13:18:11,240 - INFO - username=Will&password=#£§%a
+2019-09-26 13:18:11,240 - INFO - {'username': 'Will', 'password': '#£§%a'}
+2019-09-26 13:18:11,274 - WARNING - Expecting value: line 1 column 1 (char 0)
+2019-09-26 13:18:11,274 - ERROR - FAIL
+2019-09-26 13:18:11,337 - ERROR - FAIL
+2019-09-26 13:18:11,372 - ERROR - FAIL
+2019-09-26 13:18:11,372 - INFO - username=Will&password=12
+2019-09-26 13:18:11,372 - INFO - {'username': 'Will', 'password': '12'}
+2019-09-26 13:18:11,404 - INFO - PASS
+2019-09-26 13:18:11,404 - INFO - username=Will&password=123
+2019-09-26 13:18:11,404 - INFO - {'username': 'Will', 'password': '123'}
+2019-09-26 13:18:11,436 - ERROR - FAIL
+2019-09-26 13:18:11,436 - INFO - username=Will&password=1234561234561234
+2019-09-26 13:18:11,436 - INFO - {'username': 'Will', 'password': '1234561234561234'}
+2019-09-26 13:18:11,468 - ERROR - FAIL
+2019-09-26 13:18:11,468 - INFO - username=Will&password=12345612345612345
+2019-09-26 13:18:11,468 - INFO - {'username': 'Will', 'password': '12345612345612345'}
+2019-09-26 13:18:11,500 - INFO - PASS
+2019-09-26 13:18:11,500 - INFO - username=Will&password=123456123456123456123456123456123456123456123456
+2019-09-26 13:18:11,501 - INFO - {'username': 'Will', 'password': '123456123456123456123456123456123456123456123456'}
+2019-09-26 13:18:11,532 - INFO - PASS
+2019-09-26 13:18:11,565 - WARNING - Expecting value: line 1 column 1 (char 0)
+2019-09-26 13:18:11,565 - INFO - PASS
+2019-09-26 13:18:11,565 - INFO - username=Will&aaa=bbb&password=123456
+2019-09-26 13:18:11,565 - INFO - {'username': 'Will', 'aaa': 'bbb', 'password': '123456'}
+2019-09-26 13:18:11,628 - ERROR - FAIL
+2019-09-26 13:18:11,692 - INFO - 676b2facc5aa46c79f93eecc33771d89
+2019-09-26 13:18:11,693 - INFO - username=Will&password=1253
+2019-09-26 13:18:11,693 - INFO - {'username': 'Will', 'password': '1253'}
+2019-09-26 13:18:11,726 - ERROR - FAIL
+2019-09-26 13:18:11,726 - INFO - username=Wilil&password=123456
+2019-09-26 13:18:11,726 - INFO - {'username': 'Wilil', 'password': '123456'}
+2019-09-26 13:18:11,759 - ERROR - FAIL
+2019-09-26 13:18:11,760 - INFO - username=Will&password=tufei
+2019-09-26 13:18:11,760 - INFO - {'username': 'Will', 'password': 'tufei'}
+2019-09-26 13:18:11,794 - ERROR - FAIL
+2019-09-26 13:18:11,794 - INFO - username=Will&password=123456
+2019-09-26 13:18:11,794 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:18:11,827 - ERROR - FAIL
+2019-09-26 13:18:11,890 - INFO - 4a2e8bcb55c240b5b036304aaa432504
+2019-09-26 13:18:11,891 - INFO - username=Will' or 1=1 #&password=123456
+2019-09-26 13:18:11,891 - INFO - {'username': "Will' or 1", 'password': '123456'}
+2019-09-26 13:18:11,924 - ERROR - FAIL
+2019-09-26 13:18:11,991 - INFO - 898ec61a8fca443cb504154800546832
+2019-09-26 13:18:11,991 - INFO - username=Will&password=123' or 1=1 #
+2019-09-26 13:18:11,991 - INFO - {'username': 'Will', 'password': "123' or 1"}
+2019-09-26 13:18:12,024 - ERROR - FAIL
+2019-09-26 13:18:12,057 - INFO - http://112.74.191.10:8081/inter/HTTP±ªµ˜”√
+2019-09-26 13:18:12,057 - INFO - username=lwp1&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:18:12,057 - INFO - {'username': 'lwp1', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:18:12,090 - INFO - PASS
+2019-09-26 13:18:12,090 - INFO - username=lwp1&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:18:12,091 - INFO - {'username': 'lwp1', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:18:12,124 - INFO - PASS
+2019-09-26 13:18:12,124 - INFO - username=lwp1&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:18:12,124 - INFO - {'username': 'lwp1', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:18:12,157 - INFO - PASS
+2019-09-26 13:18:12,158 - INFO - username=lwp1&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:18:12,158 - INFO - {'username': 'lwp1', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:18:12,193 - INFO - PASS
+2019-09-26 13:18:12,225 - INFO - 014712b2bb15420e8ad1ec5ef98cc5aa
+2019-09-26 13:18:12,225 - INFO - username=lwp1&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:18:12,225 - INFO - {'username': 'lwp1', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:18:12,258 - ERROR - FAIL
+2019-09-26 13:18:12,259 - INFO - username=lwp1&password=1223456
+2019-09-26 13:18:12,259 - INFO - {'username': 'lwp1', 'password': '1223456'}
+2019-09-26 13:18:12,293 - ERROR - FAIL
+2019-09-26 13:39:13,088 - INFO - http://112.74.191.10:8081/inter/HTTP±ªµ˜”√
+2019-09-26 13:39:13,215 - INFO - PASS
+2019-09-26 13:39:13,249 - INFO - PASS
+2019-09-26 13:39:13,283 - INFO - PASS
+2019-09-26 13:39:13,323 - INFO - 6bb479bdf29544339d4cce487dd19ca2
+2019-09-26 13:39:13,359 - INFO - PASS
+2019-09-26 13:39:13,394 - INFO - PASS
+2019-09-26 13:39:13,395 - INFO - http://112.74.191.10:8081/inter/HTTP±ªµ˜”√
+2019-09-26 13:39:13,395 - INFO - username=Will&password=123456
+2019-09-26 13:39:13,395 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:39:13,430 - INFO - PASS
+2019-09-26 13:39:13,430 - INFO - username=Will&password=123456
+2019-09-26 13:39:13,430 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:39:13,464 - INFO - PASS
+2019-09-26 13:39:13,464 - INFO - username=Will&password=123456
+2019-09-26 13:39:13,465 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:39:13,499 - INFO - PASS
+2019-09-26 13:39:13,499 - INFO - username=Will&password=123456
+2019-09-26 13:39:13,499 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:39:13,535 - INFO - PASS
+2019-09-26 13:39:13,571 - INFO - 4a21e0fcc8c34d1c8d67a1fce9859173
+2019-09-26 13:39:13,571 - INFO - username=Will&password=123456
+2019-09-26 13:39:13,571 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:39:13,606 - ERROR - FAIL
+2019-09-26 13:39:13,606 - INFO - username=Will&password=123456
+2019-09-26 13:39:13,606 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:39:13,642 - ERROR - FAIL
+2019-09-26 13:39:13,714 - INFO - 6075561f7285431aa59c17208c2e0117
+2019-09-26 13:39:13,715 - INFO - password=123456
+2019-09-26 13:39:13,715 - INFO - {'password': '123456'}
+2019-09-26 13:39:13,757 - WARNING - Expecting value: line 1 column 1 (char 0)
+2019-09-26 13:39:13,758 - ERROR - FAIL
+2019-09-26 13:39:13,758 - INFO - username=&password=123456
+2019-09-26 13:39:13,758 - INFO - {'username': '', 'password': '123456'}
+2019-09-26 13:39:13,828 - INFO - PASS
+2019-09-26 13:39:13,829 - INFO - username=#£§%a&password=123456
+2019-09-26 13:39:13,829 - INFO - {'username': '#£§%a', 'password': '123456'}
+2019-09-26 13:39:13,865 - WARNING - Expecting value: line 1 column 1 (char 0)
+2019-09-26 13:39:13,866 - ERROR - FAIL
+2019-09-26 13:39:13,991 - ERROR - FAIL
+2019-09-26 13:39:14,023 - ERROR - FAIL
+2019-09-26 13:39:14,024 - INFO - username=ll&password=123456
+2019-09-26 13:39:14,024 - INFO - {'username': 'll', 'password': '123456'}
+2019-09-26 13:39:14,053 - INFO - PASS
+2019-09-26 13:39:14,054 - INFO - username=ill&password=123456
+2019-09-26 13:39:14,054 - INFO - {'username': 'ill', 'password': '123456'}
+2019-09-26 13:39:14,083 - ERROR - FAIL
+2019-09-26 13:39:14,083 - INFO - username=WillWillWillWill&password=123456
+2019-09-26 13:39:14,083 - INFO - {'username': 'WillWillWillWill', 'password': '123456'}
+2019-09-26 13:39:14,112 - ERROR - FAIL
+2019-09-26 13:39:14,113 - INFO - username=W1illWillWillWill&password=123456
+2019-09-26 13:39:14,113 - INFO - {'username': 'W1illWillWillWill', 'password': '123456'}
+2019-09-26 13:39:14,143 - INFO - PASS
+2019-09-26 13:39:14,144 - INFO - username=W1illWillWillWillW1illWillWillWillW1illWillWillWillW1illWillWillWill&password=123456
+2019-09-26 13:39:14,144 - INFO - {'username': 'W1illWillWillWillW1illWillWillWillW1illWillWillWillW1illWillWillWill', 'password': '123456'}
+2019-09-26 13:39:14,180 - INFO - PASS
+2019-09-26 13:39:14,180 - INFO - username=Will
+2019-09-26 13:39:14,180 - INFO - {'username': 'Will'}
+2019-09-26 13:39:14,210 - WARNING - Expecting value: line 1 column 1 (char 0)
+2019-09-26 13:39:14,211 - INFO - PASS
+2019-09-26 13:39:14,211 - INFO - username=Will&password=
+2019-09-26 13:39:14,211 - INFO - {'username': 'Will', 'password': ''}
+2019-09-26 13:39:14,273 - INFO - PASS
+2019-09-26 13:39:14,273 - INFO - username=Will&password=#£§%a
+2019-09-26 13:39:14,274 - INFO - {'username': 'Will', 'password': '#£§%a'}
+2019-09-26 13:39:14,307 - WARNING - Expecting value: line 1 column 1 (char 0)
+2019-09-26 13:39:14,308 - ERROR - FAIL
+2019-09-26 13:39:14,367 - ERROR - FAIL
+2019-09-26 13:39:14,401 - ERROR - FAIL
+2019-09-26 13:39:14,401 - INFO - username=Will&password=12
+2019-09-26 13:39:14,401 - INFO - {'username': 'Will', 'password': '12'}
+2019-09-26 13:39:14,433 - INFO - PASS
+2019-09-26 13:39:14,434 - INFO - username=Will&password=123
+2019-09-26 13:39:14,434 - INFO - {'username': 'Will', 'password': '123'}
+2019-09-26 13:39:14,466 - ERROR - FAIL
+2019-09-26 13:39:14,466 - INFO - username=Will&password=1234561234561234
+2019-09-26 13:39:14,466 - INFO - {'username': 'Will', 'password': '1234561234561234'}
+2019-09-26 13:39:14,498 - ERROR - FAIL
+2019-09-26 13:39:14,498 - INFO - username=Will&password=12345612345612345
+2019-09-26 13:39:14,498 - INFO - {'username': 'Will', 'password': '12345612345612345'}
+2019-09-26 13:39:14,529 - INFO - PASS
+2019-09-26 13:39:14,530 - INFO - username=Will&password=123456123456123456123456123456123456123456123456
+2019-09-26 13:39:14,530 - INFO - {'username': 'Will', 'password': '123456123456123456123456123456123456123456123456'}
+2019-09-26 13:39:14,562 - INFO - PASS
+2019-09-26 13:39:14,597 - WARNING - Expecting value: line 1 column 1 (char 0)
+2019-09-26 13:39:14,597 - INFO - PASS
+2019-09-26 13:39:14,598 - INFO - username=Will&aaa=bbb&password=123456
+2019-09-26 13:39:14,598 - INFO - {'username': 'Will', 'aaa': 'bbb', 'password': '123456'}
+2019-09-26 13:39:14,666 - ERROR - FAIL
+2019-09-26 13:39:14,737 - INFO - e052a087b6f944c8acc7a3f09519f68a
+2019-09-26 13:39:14,738 - INFO - username=Will&password=1253
+2019-09-26 13:39:14,738 - INFO - {'username': 'Will', 'password': '1253'}
+2019-09-26 13:39:14,772 - ERROR - FAIL
+2019-09-26 13:39:14,773 - INFO - username=Wilil&password=123456
+2019-09-26 13:39:14,773 - INFO - {'username': 'Wilil', 'password': '123456'}
+2019-09-26 13:39:14,809 - ERROR - FAIL
+2019-09-26 13:39:14,809 - INFO - username=Will&password=tufei
+2019-09-26 13:39:14,809 - INFO - {'username': 'Will', 'password': 'tufei'}
+2019-09-26 13:39:14,846 - ERROR - FAIL
+2019-09-26 13:39:14,846 - INFO - username=Will&password=123456
+2019-09-26 13:39:14,846 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:39:14,883 - ERROR - FAIL
+2019-09-26 13:39:14,954 - INFO - 976fff2c33934fb8b7dece4a463f0b77
+2019-09-26 13:39:14,954 - INFO - username=Will' or 1=1 #&password=123456
+2019-09-26 13:39:14,954 - INFO - {'username': "Will' or 1", 'password': '123456'}
+2019-09-26 13:39:14,992 - ERROR - FAIL
+2019-09-26 13:39:15,067 - INFO - 7d0f0c708fd840f78f225dbffc63c277
+2019-09-26 13:39:15,067 - INFO - username=Will&password=123' or 1=1 #
+2019-09-26 13:39:15,067 - INFO - {'username': 'Will', 'password': "123' or 1"}
+2019-09-26 13:39:15,103 - ERROR - FAIL
+2019-09-26 13:39:15,138 - INFO - http://112.74.191.10:8081/inter/HTTP±ªµ˜”√
+2019-09-26 13:39:15,139 - INFO - username=lwp1&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:39:15,189 - INFO - {'username': 'lwp1', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:39:15,225 - INFO - PASS
+2019-09-26 13:39:15,225 - INFO - username=lwp1&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:39:15,225 - INFO - {'username': 'lwp1', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:39:15,261 - INFO - PASS
+2019-09-26 13:39:15,261 - INFO - username=lwp1&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:39:15,261 - INFO - {'username': 'lwp1', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:39:15,298 - INFO - PASS
+2019-09-26 13:39:15,298 - INFO - username=lwp1&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:39:15,298 - INFO - {'username': 'lwp1', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:39:15,335 - INFO - PASS
+2019-09-26 13:39:15,371 - INFO - 247363bb126f43dd985481f93e342930
+2019-09-26 13:39:15,371 - INFO - username=lwp1&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:39:15,372 - INFO - {'username': 'lwp1', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:39:15,408 - ERROR - FAIL
+2019-09-26 13:39:15,408 - INFO - username=lwp1&password=1223456
+2019-09-26 13:39:15,408 - INFO - {'username': 'lwp1', 'password': '1223456'}
+2019-09-26 13:39:15,443 - ERROR - FAIL
+2019-09-26 13:39:15,512 - INFO - 30d5bb612b6f46bfb541b06c1e42e41b
+2019-09-26 13:39:15,513 - INFO - pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:39:15,513 - INFO - {'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:39:15,548 - INFO - PASS
+2019-09-26 13:39:15,549 - INFO - username=&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:39:15,549 - INFO - {'username': '', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:39:15,584 - INFO - PASS
+2019-09-26 13:39:15,584 - INFO - username=&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:39:15,585 - INFO - {'username': '', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:39:15,619 - INFO - PASS
+2019-09-26 13:39:15,620 - INFO - username=lwp9&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:39:15,620 - INFO - {'username': 'lwp9', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:39:15,672 - INFO - PASS
+2019-09-26 13:39:15,672 - INFO - username=lwp13&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:39:15,672 - INFO - {'username': 'lwp13', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:39:15,718 - INFO - PASS
+2019-09-26 13:39:15,718 - INFO - username=lwp13lwp13lwp13lwp133&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:39:15,719 - INFO - {'username': 'lwp13lwp13lwp13lwp133', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:39:15,755 - ERROR - FAIL
+2019-09-26 13:39:15,755 - INFO - username=lwp13lwp13lwp13lwp13&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:39:15,755 - INFO - {'username': 'lwp13lwp13lwp13lwp13', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:39:15,790 - ERROR - FAIL
+2019-09-26 13:39:15,790 - INFO - username=lwp13lwp13lwp13lwp13&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:39:15,790 - INFO - {'username': 'lwp13lwp13lwp13lwp13', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:39:15,825 - ERROR - FAIL
+2019-09-26 13:43:44,842 - INFO - http://112.74.191.10:8081/inter/HTTP±ªµ˜”√
+2019-09-26 13:43:44,907 - INFO - PASS
+2019-09-26 13:43:44,940 - INFO - PASS
+2019-09-26 13:43:44,975 - INFO - PASS
+2019-09-26 13:43:44,976 - INFO - 3fb271a5f92a4ebcbd59d4cdac6fa007
+2019-09-26 13:43:45,007 - INFO - PASS
+2019-09-26 13:43:45,040 - INFO - PASS
+2019-09-26 13:43:45,041 - INFO - http://112.74.191.10:8081/inter/HTTP±ªµ˜”√
+2019-09-26 13:43:45,042 - INFO - username=Will&password=123456
+2019-09-26 13:43:45,042 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:43:45,078 - INFO - PASS
+2019-09-26 13:43:45,079 - INFO - username=Will&password=123456
+2019-09-26 13:43:45,079 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:43:45,113 - INFO - PASS
+2019-09-26 13:43:45,113 - INFO - username=Will&password=123456
+2019-09-26 13:43:45,113 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:43:45,149 - INFO - PASS
+2019-09-26 13:43:45,149 - INFO - username=Will&password=123456
+2019-09-26 13:43:45,149 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:43:45,182 - INFO - PASS
+2019-09-26 13:43:45,216 - INFO - d8167d52a0744229a438e2a77b2285d1
+2019-09-26 13:43:45,216 - INFO - username=Will&password=123456
+2019-09-26 13:43:45,216 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:43:45,249 - ERROR - FAIL
+2019-09-26 13:43:45,250 - INFO - username=Will&password=123456
+2019-09-26 13:43:45,250 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:43:45,284 - ERROR - FAIL
+2019-09-26 13:43:45,352 - INFO - 38c09e4ffaee4ff68ca2abf0eee73c7c
+2019-09-26 13:43:45,352 - INFO - password=123456
+2019-09-26 13:43:45,353 - INFO - {'password': '123456'}
+2019-09-26 13:43:45,387 - WARNING - Expecting value: line 1 column 1 (char 0)
+2019-09-26 13:43:45,387 - ERROR - FAIL
+2019-09-26 13:43:45,388 - INFO - username=&password=123456
+2019-09-26 13:43:45,388 - INFO - {'username': '', 'password': '123456'}
+2019-09-26 13:43:45,448 - INFO - PASS
+2019-09-26 13:43:45,448 - INFO - username=#£§%a&password=123456
+2019-09-26 13:43:45,449 - INFO - {'username': '#£§%a', 'password': '123456'}
+2019-09-26 13:43:45,482 - WARNING - Expecting value: line 1 column 1 (char 0)
+2019-09-26 13:43:45,483 - ERROR - FAIL
+2019-09-26 13:43:45,553 - ERROR - FAIL
+2019-09-26 13:43:45,591 - ERROR - FAIL
+2019-09-26 13:43:45,591 - INFO - username=ll&password=123456
+2019-09-26 13:43:45,591 - INFO - {'username': 'll', 'password': '123456'}
+2019-09-26 13:43:45,625 - INFO - PASS
+2019-09-26 13:43:45,626 - INFO - username=ill&password=123456
+2019-09-26 13:43:45,626 - INFO - {'username': 'ill', 'password': '123456'}
+2019-09-26 13:43:45,661 - ERROR - FAIL
+2019-09-26 13:43:45,661 - INFO - username=WillWillWillWill&password=123456
+2019-09-26 13:43:45,661 - INFO - {'username': 'WillWillWillWill', 'password': '123456'}
+2019-09-26 13:43:45,697 - ERROR - FAIL
+2019-09-26 13:43:45,698 - INFO - username=W1illWillWillWill&password=123456
+2019-09-26 13:43:45,698 - INFO - {'username': 'W1illWillWillWill', 'password': '123456'}
+2019-09-26 13:43:45,734 - INFO - PASS
+2019-09-26 13:43:45,734 - INFO - username=W1illWillWillWillW1illWillWillWillW1illWillWillWillW1illWillWillWill&password=123456
+2019-09-26 13:43:45,734 - INFO - {'username': 'W1illWillWillWillW1illWillWillWillW1illWillWillWillW1illWillWillWill', 'password': '123456'}
+2019-09-26 13:43:45,769 - INFO - PASS
+2019-09-26 13:43:45,769 - INFO - username=Will
+2019-09-26 13:43:45,769 - INFO - {'username': 'Will'}
+2019-09-26 13:43:45,805 - WARNING - Expecting value: line 1 column 1 (char 0)
+2019-09-26 13:43:45,805 - INFO - PASS
+2019-09-26 13:43:45,805 - INFO - username=Will&password=
+2019-09-26 13:43:45,806 - INFO - {'username': 'Will', 'password': ''}
+2019-09-26 13:43:45,870 - INFO - PASS
+2019-09-26 13:43:45,870 - INFO - username=Will&password=#£§%a
+2019-09-26 13:43:45,871 - INFO - {'username': 'Will', 'password': '#£§%a'}
+2019-09-26 13:43:45,906 - WARNING - Expecting value: line 1 column 1 (char 0)
+2019-09-26 13:43:45,906 - ERROR - FAIL
+2019-09-26 13:43:45,975 - ERROR - FAIL
+2019-09-26 13:43:46,013 - ERROR - FAIL
+2019-09-26 13:43:46,014 - INFO - username=Will&password=12
+2019-09-26 13:43:46,014 - INFO - {'username': 'Will', 'password': '12'}
+2019-09-26 13:43:46,050 - INFO - PASS
+2019-09-26 13:43:46,050 - INFO - username=Will&password=123
+2019-09-26 13:43:46,050 - INFO - {'username': 'Will', 'password': '123'}
+2019-09-26 13:43:46,085 - ERROR - FAIL
+2019-09-26 13:43:46,086 - INFO - username=Will&password=1234561234561234
+2019-09-26 13:43:46,086 - INFO - {'username': 'Will', 'password': '1234561234561234'}
+2019-09-26 13:43:46,121 - ERROR - FAIL
+2019-09-26 13:43:46,122 - INFO - username=Will&password=12345612345612345
+2019-09-26 13:43:46,122 - INFO - {'username': 'Will', 'password': '12345612345612345'}
+2019-09-26 13:43:46,157 - INFO - PASS
+2019-09-26 13:43:46,158 - INFO - username=Will&password=123456123456123456123456123456123456123456123456
+2019-09-26 13:43:46,158 - INFO - {'username': 'Will', 'password': '123456123456123456123456123456123456123456123456'}
+2019-09-26 13:43:46,193 - INFO - PASS
+2019-09-26 13:43:46,230 - WARNING - Expecting value: line 1 column 1 (char 0)
+2019-09-26 13:43:46,230 - INFO - PASS
+2019-09-26 13:43:46,230 - INFO - username=Will&aaa=bbb&password=123456
+2019-09-26 13:43:46,231 - INFO - {'username': 'Will', 'aaa': 'bbb', 'password': '123456'}
+2019-09-26 13:43:46,297 - ERROR - FAIL
+2019-09-26 13:43:46,368 - INFO - a8d925959c1440ee92965e0de46fda19
+2019-09-26 13:43:46,368 - INFO - username=Will&password=1253
+2019-09-26 13:43:46,368 - INFO - {'username': 'Will', 'password': '1253'}
+2019-09-26 13:43:46,404 - ERROR - FAIL
+2019-09-26 13:43:46,405 - INFO - username=Wilil&password=123456
+2019-09-26 13:43:46,405 - INFO - {'username': 'Wilil', 'password': '123456'}
+2019-09-26 13:43:46,440 - ERROR - FAIL
+2019-09-26 13:43:46,441 - INFO - username=Will&password=tufei
+2019-09-26 13:43:46,441 - INFO - {'username': 'Will', 'password': 'tufei'}
+2019-09-26 13:43:46,476 - ERROR - FAIL
+2019-09-26 13:43:46,477 - INFO - username=Will&password=123456
+2019-09-26 13:43:46,477 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:43:46,513 - ERROR - FAIL
+2019-09-26 13:43:46,583 - INFO - babdd6fec5cd42d0bf2ae899b43ebbe5
+2019-09-26 13:43:46,584 - INFO - username=Will' or 1=1 #&password=123456
+2019-09-26 13:43:46,584 - INFO - {'username': "Will' or 1", 'password': '123456'}
+2019-09-26 13:43:46,620 - ERROR - FAIL
+2019-09-26 13:43:46,690 - INFO - c0b95fa2196c47e0aa3412016bc54793
+2019-09-26 13:43:46,691 - INFO - username=Will&password=123' or 1=1 #
+2019-09-26 13:43:46,691 - INFO - {'username': 'Will', 'password': "123' or 1"}
+2019-09-26 13:43:46,727 - ERROR - FAIL
+2019-09-26 13:43:46,763 - INFO - http://112.74.191.10:8081/inter/HTTP±ªµ˜”√
+2019-09-26 13:43:46,763 - INFO - username=lwp1&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:43:46,763 - INFO - {'username': 'lwp1', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:43:46,800 - INFO - PASS
+2019-09-26 13:43:46,800 - INFO - username=lwp1&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:43:46,800 - INFO - {'username': 'lwp1', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:43:46,838 - INFO - PASS
+2019-09-26 13:43:46,838 - INFO - username=lwp1&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:43:46,838 - INFO - {'username': 'lwp1', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:43:46,875 - INFO - PASS
+2019-09-26 13:43:46,875 - INFO - username=lwp1&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:43:46,875 - INFO - {'username': 'lwp1', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:43:46,912 - INFO - PASS
+2019-09-26 13:43:46,946 - INFO - eb00ce3dd1f64bb393be497acc92907e
+2019-09-26 13:43:46,947 - INFO - username=lwp1&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:43:46,947 - INFO - {'username': 'lwp1', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:43:46,983 - ERROR - FAIL
+2019-09-26 13:43:46,983 - INFO - username=lwp1&password=1223456
+2019-09-26 13:43:46,984 - INFO - {'username': 'lwp1', 'password': '1223456'}
+2019-09-26 13:43:47,019 - ERROR - FAIL
+2019-09-26 13:43:47,089 - INFO - fa843301457d4bbf862f0cd929087e77
+2019-09-26 13:43:47,090 - INFO - pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:43:47,091 - INFO - {'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:43:47,129 - INFO - PASS
+2019-09-26 13:43:47,130 - INFO - username=&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:43:47,130 - INFO - {'username': '', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:43:47,169 - INFO - PASS
+2019-09-26 13:43:47,169 - INFO - username=y1&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:43:47,169 - INFO - {'username': 'y1', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:43:47,205 - INFO - PASS
+2019-09-26 13:43:47,205 - INFO - username=lwp8&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:43:47,205 - INFO - {'username': 'lwp8', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:43:47,258 - INFO - PASS
+2019-09-26 13:43:47,258 - INFO - username=lwp17&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:43:47,258 - INFO - {'username': 'lwp17', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:43:47,303 - INFO - PASS
+2019-09-26 13:43:47,304 - INFO - username=lwp13lwp13lwp1334&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:43:47,304 - INFO - {'username': 'lwp13lwp13lwp1334', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:43:47,338 - ERROR - FAIL
+2019-09-26 13:43:47,338 - INFO - username=lwp13lwp13lwp135&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:43:47,338 - INFO - {'username': 'lwp13lwp13lwp135', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:43:47,393 - INFO - PASS
+2019-09-26 13:43:47,393 - INFO - username=lwp13lwp13lwp13&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:43:47,393 - INFO - {'username': 'lwp13lwp13lwp13', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:43:47,448 - INFO - PASS
+2019-09-26 13:44:04,049 - INFO - http://112.74.191.10:8081/inter/HTTP±ªµ˜”√
+2019-09-26 13:44:04,111 - INFO - PASS
+2019-09-26 13:44:04,142 - INFO - PASS
+2019-09-26 13:44:04,172 - INFO - PASS
+2019-09-26 13:44:04,172 - INFO - 63902057e95b446ba7464f8301ea2964
+2019-09-26 13:44:04,204 - INFO - PASS
+2019-09-26 13:44:04,235 - INFO - PASS
+2019-09-26 13:44:04,235 - INFO - http://112.74.191.10:8081/inter/HTTP±ªµ˜”√
+2019-09-26 13:44:04,235 - INFO - username=Will&password=123456
+2019-09-26 13:44:04,235 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:44:04,267 - INFO - PASS
+2019-09-26 13:44:04,268 - INFO - username=Will&password=123456
+2019-09-26 13:44:04,268 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:44:04,301 - INFO - PASS
+2019-09-26 13:44:04,301 - INFO - username=Will&password=123456
+2019-09-26 13:44:04,302 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:44:04,333 - INFO - PASS
+2019-09-26 13:44:04,334 - INFO - username=Will&password=123456
+2019-09-26 13:44:04,334 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:44:04,365 - INFO - PASS
+2019-09-26 13:44:04,395 - INFO - fe20a6e619f24163b958f61345e7713e
+2019-09-26 13:44:04,396 - INFO - username=Will&password=123456
+2019-09-26 13:44:04,396 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:44:04,428 - ERROR - FAIL
+2019-09-26 13:44:04,429 - INFO - username=Will&password=123456
+2019-09-26 13:44:04,429 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:44:04,461 - ERROR - FAIL
+2019-09-26 13:44:04,526 - INFO - bb17c24daafd480da15c01308a58f9d2
+2019-09-26 13:44:04,526 - INFO - password=123456
+2019-09-26 13:44:04,526 - INFO - {'password': '123456'}
+2019-09-26 13:44:04,559 - WARNING - Expecting value: line 1 column 1 (char 0)
+2019-09-26 13:44:04,559 - ERROR - FAIL
+2019-09-26 13:44:04,559 - INFO - username=&password=123456
+2019-09-26 13:44:04,559 - INFO - {'username': '', 'password': '123456'}
+2019-09-26 13:44:04,623 - INFO - PASS
+2019-09-26 13:44:04,624 - INFO - username=#£§%a&password=123456
+2019-09-26 13:44:04,624 - INFO - {'username': '#£§%a', 'password': '123456'}
+2019-09-26 13:44:04,659 - WARNING - Expecting value: line 1 column 1 (char 0)
+2019-09-26 13:44:04,659 - ERROR - FAIL
+2019-09-26 13:44:04,725 - ERROR - FAIL
+2019-09-26 13:44:04,759 - ERROR - FAIL
+2019-09-26 13:44:04,760 - INFO - username=ll&password=123456
+2019-09-26 13:44:04,760 - INFO - {'username': 'll', 'password': '123456'}
+2019-09-26 13:44:04,793 - INFO - PASS
+2019-09-26 13:44:04,793 - INFO - username=ill&password=123456
+2019-09-26 13:44:04,793 - INFO - {'username': 'ill', 'password': '123456'}
+2019-09-26 13:44:04,825 - ERROR - FAIL
+2019-09-26 13:44:04,825 - INFO - username=WillWillWillWill&password=123456
+2019-09-26 13:44:04,825 - INFO - {'username': 'WillWillWillWill', 'password': '123456'}
+2019-09-26 13:44:04,857 - ERROR - FAIL
+2019-09-26 13:44:04,858 - INFO - username=W1illWillWillWill&password=123456
+2019-09-26 13:44:04,858 - INFO - {'username': 'W1illWillWillWill', 'password': '123456'}
+2019-09-26 13:44:04,890 - INFO - PASS
+2019-09-26 13:44:04,891 - INFO - username=W1illWillWillWillW1illWillWillWillW1illWillWillWillW1illWillWillWill&password=123456
+2019-09-26 13:44:04,891 - INFO - {'username': 'W1illWillWillWillW1illWillWillWillW1illWillWillWillW1illWillWillWill', 'password': '123456'}
+2019-09-26 13:44:04,924 - INFO - PASS
+2019-09-26 13:44:04,924 - INFO - username=Will
+2019-09-26 13:44:04,924 - INFO - {'username': 'Will'}
+2019-09-26 13:44:04,956 - WARNING - Expecting value: line 1 column 1 (char 0)
+2019-09-26 13:44:04,956 - INFO - PASS
+2019-09-26 13:44:04,956 - INFO - username=Will&password=
+2019-09-26 13:44:04,957 - INFO - {'username': 'Will', 'password': ''}
+2019-09-26 13:44:05,017 - INFO - PASS
+2019-09-26 13:44:05,018 - INFO - username=Will&password=#£§%a
+2019-09-26 13:44:05,018 - INFO - {'username': 'Will', 'password': '#£§%a'}
+2019-09-26 13:44:05,052 - WARNING - Expecting value: line 1 column 1 (char 0)
+2019-09-26 13:44:05,053 - ERROR - FAIL
+2019-09-26 13:44:05,113 - ERROR - FAIL
+2019-09-26 13:44:05,145 - ERROR - FAIL
+2019-09-26 13:44:05,146 - INFO - username=Will&password=12
+2019-09-26 13:44:05,146 - INFO - {'username': 'Will', 'password': '12'}
+2019-09-26 13:44:05,180 - INFO - PASS
+2019-09-26 13:44:05,181 - INFO - username=Will&password=123
+2019-09-26 13:44:05,182 - INFO - {'username': 'Will', 'password': '123'}
+2019-09-26 13:44:05,219 - ERROR - FAIL
+2019-09-26 13:44:05,219 - INFO - username=Will&password=1234561234561234
+2019-09-26 13:44:05,219 - INFO - {'username': 'Will', 'password': '1234561234561234'}
+2019-09-26 13:44:05,250 - ERROR - FAIL
+2019-09-26 13:44:05,250 - INFO - username=Will&password=12345612345612345
+2019-09-26 13:44:05,251 - INFO - {'username': 'Will', 'password': '12345612345612345'}
+2019-09-26 13:44:05,281 - INFO - PASS
+2019-09-26 13:44:05,282 - INFO - username=Will&password=123456123456123456123456123456123456123456123456
+2019-09-26 13:44:05,282 - INFO - {'username': 'Will', 'password': '123456123456123456123456123456123456123456123456'}
+2019-09-26 13:44:05,313 - INFO - PASS
+2019-09-26 13:44:05,343 - WARNING - Expecting value: line 1 column 1 (char 0)
+2019-09-26 13:44:05,344 - INFO - PASS
+2019-09-26 13:44:05,344 - INFO - username=Will&aaa=bbb&password=123456
+2019-09-26 13:44:05,344 - INFO - {'username': 'Will', 'aaa': 'bbb', 'password': '123456'}
+2019-09-26 13:44:05,405 - ERROR - FAIL
+2019-09-26 13:44:05,469 - INFO - 3b100252e3844331800117c34bec0c37
+2019-09-26 13:44:05,470 - INFO - username=Will&password=1253
+2019-09-26 13:44:05,470 - INFO - {'username': 'Will', 'password': '1253'}
+2019-09-26 13:44:05,503 - ERROR - FAIL
+2019-09-26 13:44:05,504 - INFO - username=Wilil&password=123456
+2019-09-26 13:44:05,504 - INFO - {'username': 'Wilil', 'password': '123456'}
+2019-09-26 13:44:05,536 - ERROR - FAIL
+2019-09-26 13:44:05,537 - INFO - username=Will&password=tufei
+2019-09-26 13:44:05,537 - INFO - {'username': 'Will', 'password': 'tufei'}
+2019-09-26 13:44:05,570 - ERROR - FAIL
+2019-09-26 13:44:05,570 - INFO - username=Will&password=123456
+2019-09-26 13:44:05,570 - INFO - {'username': 'Will', 'password': '123456'}
+2019-09-26 13:44:05,603 - ERROR - FAIL
+2019-09-26 13:44:05,669 - INFO - 35d4582740fb46f39642eb091851700a
+2019-09-26 13:44:05,670 - INFO - username=Will' or 1=1 #&password=123456
+2019-09-26 13:44:05,670 - INFO - {'username': "Will' or 1", 'password': '123456'}
+2019-09-26 13:44:05,703 - ERROR - FAIL
+2019-09-26 13:44:05,767 - INFO - 79084e3a54d044679718460bcb1a55fd
+2019-09-26 13:44:05,768 - INFO - username=Will&password=123' or 1=1 #
+2019-09-26 13:44:05,768 - INFO - {'username': 'Will', 'password': "123' or 1"}
+2019-09-26 13:44:05,801 - ERROR - FAIL
+2019-09-26 13:44:05,836 - INFO - http://112.74.191.10:8081/inter/HTTP±ªµ˜”√
+2019-09-26 13:44:05,837 - INFO - username=lwp1&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:44:05,837 - INFO - {'username': 'lwp1', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:44:05,872 - INFO - PASS
+2019-09-26 13:44:05,872 - INFO - username=lwp1&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:44:05,872 - INFO - {'username': 'lwp1', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:44:05,905 - INFO - PASS
+2019-09-26 13:44:05,906 - INFO - username=lwp1&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:44:05,906 - INFO - {'username': 'lwp1', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:44:05,941 - INFO - PASS
+2019-09-26 13:44:05,941 - INFO - username=lwp1&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:44:05,941 - INFO - {'username': 'lwp1', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:44:05,976 - INFO - PASS
+2019-09-26 13:44:06,009 - INFO - 1d75e2e5655f4c1f8f8c5f8e1dfe3948
+2019-09-26 13:44:06,009 - INFO - username=lwp1&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:44:06,010 - INFO - {'username': 'lwp1', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:44:06,044 - ERROR - FAIL
+2019-09-26 13:44:06,045 - INFO - username=lwp1&password=1223456
+2019-09-26 13:44:06,045 - INFO - {'username': 'lwp1', 'password': '1223456'}
+2019-09-26 13:44:06,079 - ERROR - FAIL
+2019-09-26 13:44:06,149 - INFO - 2eb94c38f8f04fff84187c8d6bd5cc6f
+2019-09-26 13:44:06,149 - INFO - pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:44:06,149 - INFO - {'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:44:06,182 - INFO - PASS
+2019-09-26 13:44:06,182 - INFO - username=&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:44:06,182 - INFO - {'username': '', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:44:06,219 - INFO - PASS
+2019-09-26 13:44:06,219 - INFO - username=y1&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:44:06,219 - INFO - {'username': 'y1', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:44:06,251 - INFO - PASS
+2019-09-26 13:44:06,252 - INFO - username=lwp8&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:44:06,252 - INFO - {'username': 'lwp8', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:44:06,283 - ERROR - FAIL
+2019-09-26 13:44:06,284 - INFO - username=lwp17&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:44:06,284 - INFO - {'username': 'lwp17', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:44:06,315 - ERROR - FAIL
+2019-09-26 13:44:06,315 - INFO - username=lwp13lwp13lwp1334&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:44:06,315 - INFO - {'username': 'lwp13lwp13lwp1334', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:44:06,347 - ERROR - FAIL
+2019-09-26 13:44:06,347 - INFO - username=lwp13lwp13lwp135&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:44:06,347 - INFO - {'username': 'lwp13lwp13lwp135', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:44:06,380 - ERROR - FAIL
+2019-09-26 13:44:06,380 - INFO - username=lwp13lwp13lwp13&pwd=1223456&nickname=123&describe=≤‚ ‘’À∫≈
+2019-09-26 13:44:06,380 - INFO - {'username': 'lwp13lwp13lwp13', 'pwd': '1223456', 'nickname': '123', 'describe': '≤‚ ‘’À∫≈'}
+2019-09-26 13:44:06,414 - ERROR - FAIL
+2019-10-04 15:56:38,918 - INFO - 1aaa6bd207c044e58d9f200d3cefcefc
+2019-10-04 16:04:05,949 - INFO - ebc53cd5cc1b465383e7651982230bcf
+2019-10-04 16:04:30,158 - INFO - 65df59d6682243a785d296d6f9360be5
+2019-10-04 16:04:30,228 - INFO - PASS
+2019-10-04 16:05:40,388 - INFO - 7f13c60cdd1b4339a39b12cc3f750e6a
+2019-10-04 16:05:40,458 - INFO - PASS
+2019-10-04 16:27:10,702 - INFO - PASS
+2019-10-04 16:27:10,792 - INFO - PASS
+2019-10-04 16:27:10,872 - INFO - PASS
+2019-10-04 16:27:10,872 - INFO - aab8b8d1aaf6483ca9666ad3a0ea68de
+2019-10-04 16:27:10,942 - INFO - PASS
+2019-10-04 16:27:11,012 - INFO - PASS
+2019-10-04 16:32:17,607 - INFO - PASS
+2019-10-04 16:32:17,687 - INFO - PASS
+2019-10-04 16:32:17,767 - INFO - PASS
+2019-10-04 16:32:17,767 - INFO - 7db22d157b484a35b9ec21001f637622
+2019-10-04 16:32:17,837 - INFO - PASS
+2019-10-04 16:32:17,927 - INFO - PASS
+2019-10-04 22:22:31,863 - INFO - ['µ«¬º≤‚ ‘', 'web', 'WEBΩ”ø⁄◊‘∂ØªØ±®∏Ê', '', '', '', '', '', '']
+2019-10-04 22:22:31,939 - INFO - ['', '¥Úø™‰Ø¿¿∆˜', '', '', '', '', '', '', '']
+2019-10-04 22:22:31,939 - INFO - ['', '', '¥Úø™π»∏Ë‰Ø¿¿∆˜', 'openbrowser', 'cc', '', '', 'PASS', '¥Úø™≥…π¶']
+2019-10-04 22:22:31,939 - INFO - ['', '', 'µ»¥˝', 'sleep', '3', '', '', '', '']
+2019-10-04 22:22:31,939 - INFO - ['', 'µ«¬º', '', '', '', '', '', '', '']
+2019-10-04 22:22:31,940 - INFO - ['', '', '¥Úø™ ◊“≥', 'openurl', 'http://112.74.191.10:8000/Home/user/login.html', '', '', 'PASS', 'http://112.74.191.10:8000/Home/user/login.html']
+2019-10-04 22:22:31,940 - INFO - ['', '', ' ‰»Î”√ªß√˚', 'inputtext', '//*[@id="username"]', '13800138006', '', 'PASS', '//*[@id="username"]&13800138006']
+2019-10-04 22:22:31,940 - INFO - ['', '', ' ‰»Î√‹¬Î', 'inputtext', '//*[@id="password"]', '123456', '', 'PASS', '//*[@id="password"]&123456']
+2019-10-04 22:22:31,940 - INFO - ['', '', ' ‰»Î—È÷§¬Î', 'inputtext', '//*[@id="verify_code"]', '111', '', 'PASS', '//*[@id="verify_code"]&111']
+2019-10-04 22:22:31,940 - INFO - ['', '', 'µ„ª˜µ«¬º', 'click', '//*[@id="loginform"]/div/div[6]/a', '', '', 'PASS', '//*[@id="loginform"]/div/div[6]/a']
+2019-10-04 22:22:31,940 - INFO - ['', '', 'µ»¥˝“≥√Êº”‘ÿ', 'sleep', '3', '', '', '', '']
+2019-10-04 22:22:31,940 - INFO - ['', 'ÕÀ≥ˆµ«¬º', '', '', '', '', '', '', '']
+2019-10-04 22:22:31,940 - INFO - ['', '', 'µ„ª˜ÕÀ≥ˆµ«¬º', 'click', '/html/body/div[1]/div/div/div/div[2]/a[2]', '', '', 'PASS', '/html/body/div[1]/div/div/div/div[2]/a[2]']
+2019-10-04 22:29:36,811 - INFO - ['µ«¬º≤‚ ‘', 'web', 'WEBΩ”ø⁄◊‘∂ØªØ±®∏Ê', '', '', '', '', '', '']
+2019-10-04 22:29:36,811 - INFO - ['', '¥Úø™‰Ø¿¿∆˜', '', '', '', '', '', '', '']
+2019-10-04 22:29:36,811 - INFO - ['', '', '¥Úø™π»∏Ë‰Ø¿¿∆˜', 'openbrowser', 'cc', '', '', 'PASS', '¥Úø™≥…π¶']
+2019-10-04 22:29:36,811 - INFO - ['', '', 'µ»¥˝', 'sleep', '3', '', '', '', '']
+2019-10-04 22:29:36,811 - INFO - ['', 'µ«¬º', '', '', '', '', '', '', '']
+2019-10-04 22:29:36,811 - INFO - ['', '', '¥Úø™ ◊“≥', 'openurl', 'http://112.74.191.10:8000/Home/user/login.html', '', '', 'PASS', 'http://112.74.191.10:8000/Home/user/login.html']
+2019-10-04 22:29:36,811 - INFO - ['', '', ' ‰»Î”√ªß√˚', 'inputtext', '//*[@id="username"]', '13800138006', '', 'PASS', '//*[@id="username"]&13800138006']
+2019-10-04 22:29:36,811 - INFO - ['', '', ' ‰»Î√‹¬Î', 'inputtext', '//*[@id="password"]', '123456', '', 'PASS', '//*[@id="password"]&123456']
+2019-10-04 22:29:36,812 - INFO - ['', '', ' ‰»Î—È÷§¬Î', 'inputtext', '//*[@id="verify_code"]', '111', '', 'PASS', '//*[@id="verify_code"]&111']
+2019-10-04 22:29:36,812 - INFO - ['', '', 'µ„ª˜µ«¬º', 'click', '//*[@id="loginform"]/div/div[6]/a', '', '', 'PASS', '//*[@id="loginform"]/div/div[6]/a']
+2019-10-04 22:29:36,812 - INFO - ['', '', 'µ»¥˝“≥√Êº”‘ÿ', 'sleep', '3', '', '', '', '']
+2019-10-04 22:29:36,812 - INFO - ['', 'ÕÀ≥ˆµ«¬º', '', '', '', '', '', '', '']
+2019-10-04 22:29:36,812 - INFO - ['', '', 'µ„ª˜ÕÀ≥ˆµ«¬º', 'click', '/html/body/div[1]/div/div/div/div[2]/a[2]', '', '', 'PASS', '/html/body/div[1]/div/div/div/div[2]/a[2]']
+2019-10-04 22:33:09,497 - INFO - ['µ«¬º≤‚ ‘', 'web', 'WEBΩ”ø⁄◊‘∂ØªØ±®∏Ê', '', '', '', '', '', '']
+2019-10-04 22:33:09,497 - INFO - ['', '¥Úø™‰Ø¿¿∆˜', '', '', '', '', '', '', '']
+2019-10-04 22:33:09,497 - INFO - ['', '', '¥Úø™π»∏Ë‰Ø¿¿∆˜', 'openbrowser', 'cc', '', '', 'PASS', '¥Úø™≥…π¶']
+2019-10-04 22:33:09,498 - INFO - ['', '', 'µ»¥˝', 'sleep', '3', '', '', '', '']
+2019-10-04 22:33:35,364 - INFO - ['µ«¬º≤‚ ‘', 'web', 'WEBΩ”ø⁄◊‘∂ØªØ±®∏Ê', '', '', '', '', '', '']
+2019-10-04 22:33:35,364 - INFO - ['', '¥Úø™‰Ø¿¿∆˜', '', '', '', '', '', '', '']
+2019-10-04 22:33:35,364 - INFO - ['', '', '¥Úø™π»∏Ë‰Ø¿¿∆˜', 'openbrowser', 'cc', '', '', 'PASS', '¥Úø™≥…π¶']
+2019-10-04 22:33:35,364 - INFO - ['', '', 'µ»¥˝', 'sleep', '3', '', '', '', '']
+2019-10-04 22:33:35,364 - INFO - ['', 'µ«¬º', '', '', '', '', '', '', '']
+2019-10-04 22:33:35,364 - INFO - ['', '', '¥Úø™ ◊“≥', 'openurl', 'http://112.74.191.10:8000/Home/user/login.html', '', '', 'PASS', 'http://112.74.191.10:8000/Home/user/login.html']
+2019-10-04 22:33:35,364 - INFO - ['', '', ' ‰»Î”√ªß√˚', 'inputtext', '//*[@id="username"]', '13800138006', '', 'PASS', '//*[@id="username"]&13800138006']
+2019-10-04 22:33:35,364 - INFO - ['', '', ' ‰»Î√‹¬Î', 'inputtext', '//*[@id="password"]', '123456', '', 'PASS', '//*[@id="password"]&123456']
+2019-10-04 22:33:35,364 - INFO - ['', '', ' ‰»Î—È÷§¬Î', 'inputtext', '//*[@id="verify_code"]', '111', '', 'PASS', '//*[@id="verify_code"]&111']
+2019-10-04 22:33:35,365 - INFO - ['', '', 'µ„ª˜µ«¬º', 'click', '//*[@id="loginform"]/div/div[6]/a', '', '', 'PASS', '//*[@id="loginform"]/div/div[6]/a']
+2019-10-04 22:33:35,365 - INFO - ['', '', 'µ»¥˝“≥√Êº”‘ÿ', 'sleep', '3', '', '', '', '']
+2019-10-04 22:33:35,365 - INFO - ['', 'ÕÀ≥ˆµ«¬º', '', '', '', '', '', '', '']
+2019-10-04 22:33:35,365 - INFO - ['', '', 'µ„ª˜ÕÀ≥ˆµ«¬º', 'click', '/html/body/div[1]/div/div/div/div[2]/a[2]', '', '', 'PASS', '/html/body/div[1]/div/div/div/div[2]/a[2]']
+2019-10-04 22:35:38,975 - INFO - ['µ«¬º≤‚ ‘', 'web', 'WEBΩ”ø⁄◊‘∂ØªØ±®∏Ê', '', '', '', '', '', '']
+2019-10-04 22:35:38,975 - INFO - ['', '¥Úø™‰Ø¿¿∆˜', '', '', '', '', '', '', '']
+2019-10-04 22:35:38,975 - INFO - ['', '', '¥Úø™π»∏Ë‰Ø¿¿∆˜', 'openbrowser', 'cc', '', '', 'PASS', '¥Úø™≥…π¶']
+2019-10-04 22:35:38,976 - INFO - ['', '', 'µ»¥˝', 'sleep', '3', '', '', 'PASS', '']
+2019-10-04 22:35:38,976 - INFO - ['', 'µ«¬º', '', '', '', '', '', '', '']
+2019-10-04 22:35:38,976 - INFO - ['', '', '¥Úø™ ◊“≥', 'openurl', 'http://112.74.191.10:8000/Home/user/login.html', '', '', 'PASS', 'http://112.74.191.10:8000/Home/user/login.html']
+2019-10-04 22:35:38,976 - INFO - ['', '', ' ‰»Î”√ªß√˚', 'inputtext', '//*[@id="username"]', '13800138006', '', 'PASS', '//*[@id="username"]&13800138006']
+2019-10-04 22:35:38,976 - INFO - ['', '', ' ‰»Î√‹¬Î', 'inputtext', '//*[@id="password"]', '123456', '', 'PASS', '//*[@id="password"]&123456']
+2019-10-04 22:35:38,976 - INFO - ['', '', ' ‰»Î—È÷§¬Î', 'inputtext', '//*[@id="verify_code"]', '111', '', 'PASS', '//*[@id="verify_code"]&111']
+2019-10-04 22:35:38,976 - INFO - ['', '', 'µ„ª˜µ«¬º', 'click', '//*[@id="loginform"]/div/div[6]/a', '', '', 'PASS', '//*[@id="loginform"]/div/div[6]/a']
+2019-10-04 22:35:38,976 - INFO - ['', '', 'µ»¥˝“≥√Êº”‘ÿ', 'sleep', '3', '', '', 'PASS', '']
+2019-10-04 22:35:38,976 - INFO - ['', 'ÕÀ≥ˆµ«¬º', '', '', '', '', '', '', '']
+2019-10-04 22:35:38,976 - INFO - ['', '', 'µ„ª˜ÕÀ≥ˆµ«¬º', 'click', '/html/body/div[1]/div/div/div/div[2]/a[2]', '', '', 'PASS', '/html/body/div[1]/div/div/div/div[2]/a[2]']
+2019-10-06 18:38:57,871 - INFO - PASS
+2019-10-06 18:38:57,962 - INFO - PASS
+2019-10-06 18:38:58,026 - INFO - PASS
+2019-10-06 18:38:58,026 - INFO - 2aeb80104bce4203954d1b79d1c4d4fe
+2019-10-06 18:39:19,035 - INFO - PASS
+2019-10-06 18:39:19,112 - INFO - PASS
+2019-10-06 18:39:19,468 - INFO - ['“Ï≥£token', 'SOAP', 'SOAPΩ”ø⁄◊‘∂ØªØ±®∏Ê', '', '', '', '', '', '']
+2019-10-06 18:39:19,468 - INFO - ['', 'ª˘¥°…Ë÷√', '', ' ', '', '', '', '', '']
+2019-10-06 18:39:19,468 - INFO - ['', '', '…Ë÷√doctor', 'adddoctor', '', '', '', 'PASS', '<suds.xsd.doctor.ImportDoctor object at 0x03AAD030>']
+2019-10-06 18:39:19,468 - INFO - ['', '', '…Ë÷√µÿ÷∑', 'setwsdl', 'http://112.74.191.10:8081/inter/SOAP?wsdl', '', '', 'PASS', 'http://112.74.191.10:8081/inter/SOAP?wsdl']
+2019-10-06 18:39:19,468 - INFO - ['', 'Œﬁtoken', '', ' ', '', '', '', '', '']
+2019-10-06 18:39:19,468 - INFO - ['', '', 'Œﬁtoken', 'callmethod', 'auth', '', '', 'PASS', 'auth']
+2019-10-06 18:39:19,468 - INFO - ['', '', '–£—È ⁄»®', 'assertequals', 'status', '200', '', 'PASS', '200']
+2019-10-06 18:39:19,468 - INFO - ['', 'token÷µŒ™ø’', '', ' ', '', '', '', '', '']
+2019-10-06 18:39:19,468 - INFO - ['', '', 'ÃÌº”Õ∑', 'addheader', 'token', '', '', 'PASS', '']
+2019-10-06 18:39:19,469 - INFO - ['', '', 'ø’token', 'callmethod', 'auth', '', '', 'PASS', 'auth']
+2019-10-06 18:39:19,469 - INFO - ['', '', '–£—È ⁄»®', 'assertequals', 'status', '200', '', 'PASS', '200']
+2019-10-06 18:39:19,469 - INFO - ['', 'tokenπ˝≥§', '', ' ', '', '', '', '', '']
+2019-10-06 18:39:19,469 - INFO - ['', '', '∏¸–¬Õ∑', 'addheader', 'token', 'adsfklajfkalfkalfaklsdjfkadsljfklasdfjaldsfjklasdfjkdsajfklds', ' ', 'PASS', 'adsfklajfkalfkalfaklsdjfkadsljfklasdfjaldsfjklasdfjkdsajfklds']
+2019-10-06 18:39:19,469 - INFO - ['', '', 'tokenÃÿ ‚◊÷∑˚', 'callmethod', 'auth', '', '', 'PASS', 'auth']
+2019-10-06 18:39:19,469 - INFO - ['', '', '–£—È ⁄»®', 'assertequals', 'status', '200', '', 'PASS', '200']
+2019-10-06 18:39:19,469 - INFO - ['', '', '±£¥Ê≤Œ ˝', 'savejson', 'token', 'token', '', 'PASS', "{'token': '2aeb80104bce4203954d1b79d1c4d4fe'}"]
+2019-10-06 18:39:19,469 - INFO - ['’˝≥£token', '', '', ' ', '', '', '', '', '']
+2019-10-06 18:39:19,469 - INFO - ['', 'token’˝≥£', '', ' ', '', '', '', '', '']
+2019-10-06 18:39:19,469 - INFO - ['', '', '∏¸–¬Õ∑', 'addheader', 'token', '5c4e6acab39e4072814e2af85bb300aa', '', 'PASS', '5c4e6acab39e4072814e2af85bb300aa']
+2019-10-06 18:39:19,469 - INFO - ['', '', '”––ßtoken', 'callmethod', 'auth', '', '', 'FAIL', 'authµ˜”√ ß∞‹']
+2019-10-06 18:39:19,470 - INFO - ['', '', '–£—È ⁄»®', 'assertequals', 'status', '200', '', 'PASS', '200']
+2019-10-06 18:39:19,470 - INFO - ['', 'token“—æ≠ ⁄»®', '', ' ', '', '', '', '', '']
+2019-10-06 18:39:19,470 - INFO - ['', '', '∏¸–¬Õ∑', 'addheader', 'token', '{token}', '', 'PASS', '2aeb80104bce4203954d1b79d1c4d4fe']
+2019-10-06 18:39:19,470 - INFO - ['', '', '”––ßtoken', 'callmethod', 'auth', '', '', 'PASS', 'auth']
+2019-10-06 18:39:19,470 - INFO - ['', '', '–£—È ⁄»®', 'assertequals', 'status', '201', '', 'PASS', '201']
